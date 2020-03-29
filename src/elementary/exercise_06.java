@@ -32,7 +32,6 @@ public class exercise_06 {
             result += i;
             i++;
         }
-
         return result;
     }
 
@@ -44,7 +43,6 @@ public class exercise_06 {
             result = result*(i);
             i++;
         }
-
         return result;
     }
 }

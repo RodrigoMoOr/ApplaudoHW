@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bacdc681-17f7-4603-8805-acdbb5953edb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/elementary/exercise_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringsandlists/exercise_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringsandlists/exercise_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,13 +49,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercise_10">
-    <configuration name="exercise_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elementary.exercise_06" />
+  <component name="RunManager" selected="Application.exercise_02">
+    <configuration name="exercise_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringsandlists.exercise_02" />
       <module name="ApplaudoHW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elementary.*" />
+          <option name="PATTERN" value="stringsandlists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise_02" />
         <item itemvalue="Application.exercise_10" />
         <item itemvalue="Application.exercise_09" />
         <item itemvalue="Application.exercise_08" />
         <item itemvalue="Application.exercise_07" />
-        <item itemvalue="Application.exercise_06" />
       </list>
     </recent_temporary>
   </component>

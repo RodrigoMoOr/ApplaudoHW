@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bacdc681-17f7-4603-8805-acdbb5953edb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stringsandlists/exercise_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringsandlists/exercise_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,25 +30,22 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.exercise_02">
+  <component name="RunManager" selected="Application.exercise_03">
     <configuration name="exercise_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stringsandlists.exercise_02" />
       <module name="ApplaudoHW" />
@@ -63,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elementary.exercise_07" />
+    <configuration name="exercise_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringsandlists.exercise_03" />
       <module name="ApplaudoHW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elementary.*" />
+          <option name="PATTERN" value="stringsandlists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise_03" />
         <item itemvalue="Application.exercise_02" />
         <item itemvalue="Application.exercise_10" />
         <item itemvalue="Application.exercise_09" />
         <item itemvalue="Application.exercise_08" />
-        <item itemvalue="Application.exercise_07" />
       </list>
     </recent_temporary>
   </component>
@@ -135,8 +131,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585432669845</updated>
+      <workItem from="1586148856098" duration="70000" />
+      <workItem from="1586149024195" duration="49000" />
+      <workItem from="1586149152498" duration="1297000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -150,5 +152,35 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1234" height="161" key="GridCell.Tab.0.bottom" timestamp="1586150508246">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state width="1234" height="161" key="GridCell.Tab.0.bottom/0.30.1280.770@0.30.1280.770" timestamp="1586150508246" />
+    <state width="1234" height="161" key="GridCell.Tab.0.center" timestamp="1586150508245">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state width="1234" height="161" key="GridCell.Tab.0.center/0.30.1280.770@0.30.1280.770" timestamp="1586150508245" />
+    <state width="1234" height="161" key="GridCell.Tab.0.left" timestamp="1586150508244">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state width="1234" height="161" key="GridCell.Tab.0.left/0.30.1280.770@0.30.1280.770" timestamp="1586150508244" />
+    <state width="1234" height="161" key="GridCell.Tab.0.right" timestamp="1586150508245">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state width="1234" height="161" key="GridCell.Tab.0.right/0.30.1280.770@0.30.1280.770" timestamp="1586150508245" />
+    <state x="144" y="50" width="992" height="733" key="SettingsEditor" timestamp="1586149075460">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state x="144" y="50" width="992" height="733" key="SettingsEditor/0.30.1280.770@0.30.1280.770" timestamp="1586149075460" />
+    <state x="333" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1586149157438">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state x="333" y="242" key="com.intellij.ide.util.TipDialog/0.30.1280.770@0.30.1280.770" timestamp="1586149157438" />
+    <state x="0" y="30" width="774" height="770" key="find.popup" timestamp="1586149427674">
+      <screen x="0" y="30" width="1280" height="770" />
+    </state>
+    <state x="0" y="30" width="774" height="770" key="find.popup/0.30.1280.770@0.30.1280.770" timestamp="1586149427674" />
   </component>
 </project>

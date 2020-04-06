@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bacdc681-17f7-4603-8805-acdbb5953edb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stringsandlists/exercise_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringsandlists/exercise_04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +39,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.exercise_03">
+  <component name="RunManager" selected="Application.exercise_04">
     <configuration name="exercise_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stringsandlists.exercise_02" />
       <module name="ApplaudoHW" />
@@ -72,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elementary.exercise_08" />
+    <configuration name="exercise_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringsandlists.exercise_04" />
       <module name="ApplaudoHW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elementary.*" />
+          <option name="PATTERN" value="stringsandlists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise_04" />
         <item itemvalue="Application.exercise_03" />
         <item itemvalue="Application.exercise_02" />
         <item itemvalue="Application.exercise_10" />
         <item itemvalue="Application.exercise_09" />
-        <item itemvalue="Application.exercise_08" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +138,7 @@
       <updated>1585432669845</updated>
       <workItem from="1586148856098" duration="70000" />
       <workItem from="1586149024195" duration="49000" />
-      <workItem from="1586149152498" duration="1297000" />
+      <workItem from="1586149152498" duration="2060000" />
     </task>
     <servers />
   </component>
@@ -154,22 +159,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1234" height="161" key="GridCell.Tab.0.bottom" timestamp="1586150508246">
+    <state width="1234" height="161" key="GridCell.Tab.0.bottom" timestamp="1586151232679">
       <screen x="0" y="30" width="1280" height="770" />
     </state>
-    <state width="1234" height="161" key="GridCell.Tab.0.bottom/0.30.1280.770@0.30.1280.770" timestamp="1586150508246" />
-    <state width="1234" height="161" key="GridCell.Tab.0.center" timestamp="1586150508245">
+    <state width="1234" height="161" key="GridCell.Tab.0.bottom/0.30.1280.770@0.30.1280.770" timestamp="1586151232679" />
+    <state width="1234" height="161" key="GridCell.Tab.0.center" timestamp="1586151232678">
       <screen x="0" y="30" width="1280" height="770" />
     </state>
-    <state width="1234" height="161" key="GridCell.Tab.0.center/0.30.1280.770@0.30.1280.770" timestamp="1586150508245" />
-    <state width="1234" height="161" key="GridCell.Tab.0.left" timestamp="1586150508244">
+    <state width="1234" height="161" key="GridCell.Tab.0.center/0.30.1280.770@0.30.1280.770" timestamp="1586151232678" />
+    <state width="1234" height="161" key="GridCell.Tab.0.left" timestamp="1586151232677">
       <screen x="0" y="30" width="1280" height="770" />
     </state>
-    <state width="1234" height="161" key="GridCell.Tab.0.left/0.30.1280.770@0.30.1280.770" timestamp="1586150508244" />
-    <state width="1234" height="161" key="GridCell.Tab.0.right" timestamp="1586150508245">
+    <state width="1234" height="161" key="GridCell.Tab.0.left/0.30.1280.770@0.30.1280.770" timestamp="1586151232677" />
+    <state width="1234" height="161" key="GridCell.Tab.0.right" timestamp="1586151232678">
       <screen x="0" y="30" width="1280" height="770" />
     </state>
-    <state width="1234" height="161" key="GridCell.Tab.0.right/0.30.1280.770@0.30.1280.770" timestamp="1586150508245" />
+    <state width="1234" height="161" key="GridCell.Tab.0.right/0.30.1280.770@0.30.1280.770" timestamp="1586151232678" />
     <state x="144" y="50" width="992" height="733" key="SettingsEditor" timestamp="1586149075460">
       <screen x="0" y="30" width="1280" height="770" />
     </state>
